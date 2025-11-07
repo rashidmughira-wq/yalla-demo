@@ -1,0 +1,557 @@
+{
+  "game": {
+    "title": "يلا",
+    "teamAName": "فريق أ",
+    "teamBName": "فريق ب"
+  },
+  "categories": [
+    {
+      "id": "general",
+      "group": "عام",
+      "name": "معارف عامة",
+      "imageUrl": null,
+      "icon": "❓"
+    },
+    {
+      "id": "sports",
+      "group": "رياضي",
+      "name": "رياضة",
+      "imageUrl": null,
+      "icon": "🏟️"
+    },
+    {
+      "id": "iraq",
+      "group": "العراق",
+      "name": "العراق",
+      "imageUrl": null,
+      "icon": "🇮🇶"
+    },
+    {
+      "id": "islam",
+      "group": "إسلامي",
+      "name": "إسلاميات",
+      "imageUrl": null,
+      "icon": "🕌"
+    },
+    {
+      "id": "countries",
+      "group": "دول",
+      "name": "دول وعواصم",
+      "imageUrl": null,
+      "icon": "🌍"
+    },
+    {
+      "id": "movies",
+      "group": "فنون",
+      "name": "أفلام ومسلسلات عربية",
+      "imageUrl": null,
+      "icon": "🎬"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1bac92e5-2299-4fec-8247-9f57ac364013",
+      "categoryId": "general",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما هو أكبر كوكب في المجموعة الشمسية؟",
+        "hint": "كوكب غازي عملاق",
+        "mediaAlt": null
+      },
+      "answer": "المشتري",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "91d2f7c7-9b15-4ad8-92c9-3af2eb0592c5",
+      "categoryId": "general",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "كم عدد قارات العالم؟",
+        "hint": "أكثر من خمس وأقل من ثمان",
+        "mediaAlt": null
+      },
+      "answer": "7",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "8942c91e-0b5c-4ad2-81f6-9a6b4755d107",
+      "categoryId": "general",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "ما اسم أطول نهر في العالم؟",
+        "hint": "يمر في أفريقيا",
+        "mediaAlt": null
+      },
+      "answer": "نهر النيل",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "d7671069-622d-40fe-8b85-3f8001db7c2e",
+      "categoryId": "general",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "من مؤلف رواية «الخيميائي»؟",
+        "hint": "كاتب برازيلي",
+        "mediaAlt": null
+      },
+      "answer": "باولو كويلو",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "0a7be871-e3ca-4f0f-83ab-f86c9e122ca8",
+      "categoryId": "general",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما اسم العالم الذي وضع قوانين الحركة والجاذبية؟",
+        "hint": "قصة التفاحة",
+        "mediaAlt": null
+      },
+      "answer": "إسحاق نيوتن",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "ad4d06d6-f70d-4c32-8a9b-383c5a396eee",
+      "categoryId": "general",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "أي عنصر كيميائي يرمز له بالرمز Au؟",
+        "hint": "فلز نفيس",
+        "mediaAlt": null
+      },
+      "answer": "الذهب",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "50482daa-aae2-425d-af51-e21134fa801e",
+      "categoryId": "sports",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "كم لاعبًا في فريق كرة القدم داخل الملعب لكل فريق؟",
+        "hint": "أكثر من عشرة بقليل",
+        "mediaAlt": null
+      },
+      "answer": "11",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "8b16d445-44af-422f-9c8f-89f6a352b445",
+      "categoryId": "sports",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما الرياضة التي يُستخدم فيها المضرب والكرة الصفراء الصغيرة؟",
+        "hint": "ملعب مستطيل وشبكة",
+        "mediaAlt": null
+      },
+      "answer": "التنس",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "21928484-4f42-4305-beaf-efbb122476c2",
+      "categoryId": "sports",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "في أي دولة أُقيمت أول نسخة من كأس العالم لكرة القدم عام 1930؟",
+        "hint": "أمريكا الجنوبية",
+        "mediaAlt": null
+      },
+      "answer": "الأوروغواي",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "e74e1c0c-2730-41ce-a366-5bb4a37b95bd",
+      "categoryId": "sports",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "من اللاعب الذي يُلقّب بالفرعون المصري في كرة القدم؟",
+        "hint": "يلعب جناحًا أيمن",
+        "mediaAlt": null
+      },
+      "answer": "محمد صلاح",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "2f7fc404-0771-44c4-bfcf-287a4d1fb948",
+      "categoryId": "sports",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما المسافة الرسمية لسباق الماراثون بالكيلومترات؟",
+        "hint": "أكثر من 42",
+        "mediaAlt": null
+      },
+      "answer": "42.195",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "fda87e61-0af0-4307-8de2-a11def36bf16",
+      "categoryId": "sports",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "أي فريق فاز بأكثر ألقاب دوري أبطال أوروبا حتى عام 2024؟",
+        "hint": "نادي إسباني",
+        "mediaAlt": null
+      },
+      "answer": "ريال مدريد",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "265e278b-43b9-4e95-932c-65c644db6f2e",
+      "categoryId": "iraq",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما هي عاصمة العراق؟",
+        "hint": "على ضفاف دجلة",
+        "mediaAlt": null
+      },
+      "answer": "بغداد",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "fc447c74-9297-4a64-8b7b-502f3aa45151",
+      "categoryId": "iraq",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "أي نهرين رئيسيين يمران في العراق؟",
+        "hint": "يلتقيان في شط العرب",
+        "mediaAlt": null
+      },
+      "answer": "دجلة والفرات",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "84223d0d-1a01-4bba-b140-8993751a8a1f",
+      "categoryId": "iraq",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "في أي محافظة يقع جزء كبير من الأهوار المعروفة عالميًا؟",
+        "hint": "جنوب العراق",
+        "mediaAlt": null
+      },
+      "answer": "ذي قار (وأجزاء في ميسان والبصرة)",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "a7d43df8-8ab6-44bd-a0d9-8dd52b342a13",
+      "categoryId": "iraq",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "ما الاسم التاريخي لمدينة الموصل في العصور الآشورية؟",
+        "hint": "عاصمة آشورية قديمة",
+        "mediaAlt": null
+      },
+      "answer": "نينوى",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "078da434-5530-4284-a172-0ea0602e9597",
+      "categoryId": "iraq",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "في أي عام تأسس نادي الزوراء الرياضي؟",
+        "hint": "بعد 1965",
+        "mediaAlt": null
+      },
+      "answer": "1969",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "1a369ed6-ce19-4b2f-a0b4-d10e22968e4b",
+      "categoryId": "iraq",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "من هو الشاعر العراقي الملقّب بشاعر العرب الأكبر؟",
+        "hint": "من القرن العشرين",
+        "mediaAlt": null
+      },
+      "answer": "محمد مهدي الجواهري",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "7e482f03-69c5-4c04-8da7-1f8bd50ef18c",
+      "categoryId": "islam",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما هو أول أركان الإسلام؟",
+        "hint": "الإيمان والتصديق",
+        "mediaAlt": null
+      },
+      "answer": "الشهادتان",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "bdbfbd89-4708-4ac4-be7e-45ce836893f3",
+      "categoryId": "islam",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "كم عدد الصلوات المفروضة يوميًا؟",
+        "hint": "من الفجر إلى العشاء",
+        "mediaAlt": null
+      },
+      "answer": "خمس صلوات",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "ab134a5e-f4ff-4aae-a941-cfe4776d2d8c",
+      "categoryId": "islam",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "في أي شهر نزل القرآن الكريم؟",
+        "hint": "صيام",
+        "mediaAlt": null
+      },
+      "answer": "رمضان",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "711cf22d-c9b8-470a-a326-2016aa250fb4",
+      "categoryId": "islam",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "ما اسم الهجرة من مكة إلى المدينة؟",
+        "hint": "بداية التاريخ الهجري",
+        "mediaAlt": null
+      },
+      "answer": "الهجرة النبوية",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "c14da9f6-0af0-49e3-afaa-62736e3f38e0",
+      "categoryId": "islam",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "كم كان عمر النبي محمد ﷺ عند البعثة تقريبًا؟",
+        "hint": "أربع عقود",
+        "mediaAlt": null
+      },
+      "answer": "40 سنة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "c0ca9f45-b5df-45bd-b9c2-eddf6ee92b72",
+      "categoryId": "islam",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما السورة التي تُسمّى أمّ الكتاب؟",
+        "hint": "أول سورة",
+        "mediaAlt": null
+      },
+      "answer": "الفاتحة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "4bca501f-2555-4641-8e32-3a6551c64153",
+      "categoryId": "countries",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما عاصمة مصر؟",
+        "hint": "نهر النيل",
+        "mediaAlt": null
+      },
+      "answer": "القاهرة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "6f89910e-9154-4c28-a26c-d1281dd4418d",
+      "categoryId": "countries",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "ما عاصمة تركيا؟",
+        "hint": "ليست إسطنبول",
+        "mediaAlt": null
+      },
+      "answer": "أنقرة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "0ebae02b-b3c1-4c5a-ac3c-0ede1b5ff9d7",
+      "categoryId": "countries",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "أي دولة عربية عاصمتها الرباط؟",
+        "hint": "شمال أفريقيا",
+        "mediaAlt": null
+      },
+      "answer": "المغرب",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "c1441870-ad71-439b-acc9-99e885c31978",
+      "categoryId": "countries",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "ما هي عاصمة اليابان؟",
+        "hint": "المدينة الأكبر سكانًا في البلاد",
+        "mediaAlt": null
+      },
+      "answer": "طوكيو",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "37cd4041-e6ae-42fd-871d-315b44308733",
+      "categoryId": "countries",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما الدولة التي عاصمتها أبوجا؟",
+        "hint": "غرب أفريقيا",
+        "mediaAlt": null
+      },
+      "answer": "نيجيريا",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "57e33339-0cdc-4a71-8daa-076a8b973947",
+      "categoryId": "countries",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما الدولة الأوروبية التي عاصمتها هلسنكي؟",
+        "hint": "إسكندنافية",
+        "mediaAlt": null
+      },
+      "answer": "فنلندا",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "b80339ff-2d5c-4dce-9d48-0f99727f317c",
+      "categoryId": "movies",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "من الممثّل المصري المعروف بـ«الزعيم»؟",
+        "hint": "نجم كوميديا مصري",
+        "mediaAlt": null
+      },
+      "answer": "عادل إمام",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "a252231c-a26e-4784-882c-f22d222f4f30",
+      "categoryId": "movies",
+      "difficulty": 200,
+      "type": "text",
+      "content": {
+        "text": "من المغنّي العراقي الملقّب بـ«القيصر»؟",
+        "hint": "لحن قصائد نزار قباني كثيرًا",
+        "mediaAlt": null
+      },
+      "answer": "كاظم الساهر",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "31272592-8d6c-4d66-be6b-bc8b615e17ca",
+      "categoryId": "movies",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "ما اسم المسلسل السوري التاريخي الذي يدور في حيّ دمشقي؟",
+        "hint": "أبو شهاب وأبو عصام",
+        "mediaAlt": null
+      },
+      "answer": "باب الحارة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "abb2b76e-17a7-428a-bbd1-4d18da89cba9",
+      "categoryId": "movies",
+      "difficulty": 400,
+      "type": "text",
+      "content": {
+        "text": "من المخرج المصري المعروف بتعاونه المتكرر مع عادل إمام ومن أبناء عائلته؟",
+        "hint": "ابن الزعيم",
+        "mediaAlt": null
+      },
+      "answer": "رامي إمام",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "2f652cbb-a919-4103-a560-8b2880144fde",
+      "categoryId": "movies",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "ما اسم الفيلم المصري (2007) من إخراج شريف عرفة وبطولة أحمد السقا عن زعيم صعيدي؟",
+        "hint": "جزيرة النخيلة",
+        "mediaAlt": null
+      },
+      "answer": "الجزيرة",
+      "mediaUrl": null,
+      "isActive": true
+    },
+    {
+      "id": "15c76a1d-1b48-4be3-9878-22e524dc4a5e",
+      "categoryId": "movies",
+      "difficulty": 600,
+      "type": "text",
+      "content": {
+        "text": "من هو المخرج الفلسطيني لفيلم «عمر» (2013) المرشح للأوسكار؟",
+        "hint": "مخرج «الجنة الآن» أيضًا",
+        "mediaAlt": null
+      },
+      "answer": "هاني أبو أسعد",
+      "mediaUrl": null,
+      "isActive": true
+    }
+  ]
+}
